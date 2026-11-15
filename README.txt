@@ -1,0 +1,1 @@
+Open index.html in a browser. No installation or build is needed. HTML, CSS and JavaScript are in index.html. Keep images/ alongside it. Upload these files to any static host. Google Fonts and Maps require internet access.
